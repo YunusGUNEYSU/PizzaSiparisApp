@@ -1,0 +1,31 @@
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe.config
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.pdb
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Form1.resources
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Properties.Resources.resources
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.exe
+C:\Users\Yunus\Desktop\veripark\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.pdb
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe.config
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.pdb
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Form1.resources
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Properties.Resources.resources
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.exe
+C:\Users\Yunus\Desktop\veripark\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.pdb
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe.config
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.pdb
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.AssemblyReference.cache
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Form1.resources
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Properties.Resources.resources
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.exe
+C:\Users\Yunus\Desktop\Yeni klasör\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.pdb
